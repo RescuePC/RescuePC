@@ -279,10 +279,6 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 ✅ **Username**: RescuePC  
 ✅ **API Key**: Configured in IDE  
 ✅ **Stats Display**: Enabled  
-⏳ **Data Collection**: Waiting for first coding session  
-
-**Next Step**: Code for 5-10 minutes in your IDE and watch your stats appear in real-time!
-
 ---
 
 <div align="center">

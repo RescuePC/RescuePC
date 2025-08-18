@@ -74,8 +74,8 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RescuePC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=RescuePC%27s%20GitHub%20Stats" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RescuePC&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=8&exclude_repo=RescuePC&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RescuePC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=RescuePC%27s%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RescuePC&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=8&exclude_repo=RescuePC&custom_title=Top%20Languages&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -117,11 +117,17 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 ## 📈 Real-Time Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RescuePC&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RescuePC&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Weekly%20Coding%20Activity&layout=compact&langs_count=6&hide_progress=false" alt="WakaTime Stats" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RescuePC&repo=RescuePC&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Featured Repo" />
+</div>
+
+### 🎯 **Featured Projects**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RescuePC-Repairs&repo=RescuePC-Repair-Toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="RescuePC Repair Toolkit" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RescuePC&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Portfolio" />
 </div>
 
 ---
@@ -282,6 +288,20 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 ⏳ **Data Collection**: Waiting for first coding session  
 
 **Next Step**: Code for 5-10 minutes in your IDE and watch your stats appear in real-time!
+
+---
+
+## 📝 **Code Snippets & Examples**
+
+<div align="center">
+  <p><em>🚀 Share your best code examples and solutions!</em></p>
+  <p><em>Create GitHub Gists and pin them here to showcase your skills</em></p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Gists-Ready%20to%20Pin-00D4AA?style=for-the-badge&logo=github" alt="GitHub Gists Ready" />
+  <img src="https://img.shields.io/badge/Code%20Examples-Welcome-00D4AA?style=for-the-badge&logo=code" alt="Code Examples Welcome" />
+</div>
 
 ---
 

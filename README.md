@@ -117,7 +117,7 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 ## 📈 Real-Time Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RescuePC&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tyler&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" />
 </div>
 
 <div align="center">
@@ -276,7 +276,7 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 ## 🚀 **WakaTime Integration Status**
 
 ✅ **Profile**: Public and ready  
-✅ **Username**: RescuePC  
+✅ **Username**: tyler  
 ✅ **API Key**: Configured in IDE  
 ✅ **Stats Display**: Enabled  
 ⏳ **Data Collection**: Waiting for first coding session  

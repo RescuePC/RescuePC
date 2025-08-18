@@ -126,6 +126,21 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 
 ---
 
+## ⏳ Coding Activity & Stats
+
+<div align="center">
+  <p><em>🚀 Start coding to see your live stats here!</em></p>
+  <p><em>WakaTime is tracking your development activity in real-time</em></p>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/WakaTime-Profile%20Ready-00D4AA?style=for-the-badge&logo=wakatime" alt="WakaTime Ready" />
+  <img src="https://img.shields.io/badge/Stats-Public-00D4AA?style=for-the-badge&logo=chart-line" alt="Stats Public" />
+  <img src="https://img.shields.io/badge/Real%20Time-Active-00D4AA?style=for-the-badge&logo=clock" alt="Real Time Active" />
+</div>
+
+---
+
 ## 🔥 Current Projects
 
 <div align="center">
@@ -253,8 +268,20 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
   <img src="https://img.shields.io/badge/Profile%20Views-Dynamic-00D4AA?style=for-the-badge&logo=eye" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Last%20Updated-Automatic-00D4AA?style=for-the-badge&logo=clock" alt="Last Updated" />
   <img src="https://img.shields.io/badge/Stats-Real%20Time-00D4AA?style=for-the-badge&logo=chart-line" alt="Real Time Stats" />
-  <img src="https://img.shields.io/badge/Contributions-Animated-00D4AA?style=for-the-badge&logo=snake" alt="Animated Contributions" />
+  <img src="https://img.shields.io/badge/WakaTime-Integration-00D4AA?style=for-the-badge&logo=wakatime" alt="WakaTime Integration" />
 </div>
+
+---
+
+## 🚀 **WakaTime Integration Status**
+
+✅ **Profile**: Public and ready  
+✅ **Username**: RescuePC  
+✅ **API Key**: Configured in IDE  
+✅ **Stats Display**: Enabled  
+⏳ **Data Collection**: Waiting for first coding session  
+
+**Next Step**: Code for 5-10 minutes in your IDE and watch your stats appear in real-time!
 
 ---
 

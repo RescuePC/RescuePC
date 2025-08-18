@@ -11,9 +11,7 @@
   <img src="https://img.shields.io/badge/Timezone-EST-00D4AA?style=flat-square" alt="Timezone" />
 </div>
 
-<div align="center">
-  <img src="https://github.com/RescuePC/RescuePC/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
+
 
 ---
 
@@ -134,13 +132,16 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🚀 RescuePC</h3>
+        <h3 align="center">🚀 RescuePC Repair Toolkit</h3>
         <p align="center">
           CEO & Founder - Professional cross-platform PC repair toolkit
         </p>
         <p align="center">
-          <a href="https://rescuepcrepairs.com" target="_blank">
-            <img src="https://img.shields.io/badge/View%20Project-00D4AA?style=for-the-badge&logo=globe" alt="View Project" />
+          <a href="https://github.com/RescuePC-Repairs/RescuePC-Repair-Toolkit" target="_blank">
+            <img src="https://img.shields.io/badge/View%20on%20GitHub-00D4AA?style=for-the-badge&logo=github" alt="View on GitHub" />
+          </a>
+          <a href="https://www.rescuepcrepairs.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Visit%20Website-00D4AA?style=for-the-badge&logo=globe" alt="Visit Website" />
           </a>
         </p>
       </td>
@@ -186,7 +187,7 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
   <a href="mailto:keeseetyler@yahoo.com">
     <img src="https://img.shields.io/badge/Email-keeseetyler%40yahoo.com-00D4AA?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://rescuepcrepairs.com" target="_blank">
+  <a href="https://www.rescuepcrepairs.com/" target="_blank">
     <img src="https://img.shields.io/badge/Website-RescuePC-00D4AA?style=for-the-badge&logo=globe" alt="Website" />
   </a>
   <a href="https://github.com/RescuePC" target="_blank">
@@ -227,16 +228,19 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 ## 📱 Social & Professional
 
 <div align="center">
-  <a href="https://linkedin.com/in/tyler-keesee" target="_blank">
+  <a href="https://www.linkedin.com/in/tyler-keesee-677baa326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00D4AA?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/RescuePC" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-00D4AA?style=for-the-badge&logo=twitter" alt="Twitter" />
+  <a href="https://x.com/RescuePCRepair" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-Follow-00D4AA?style=for-the-badge&logo=x" alt="X (Twitter)" />
   </a>
-  <a href="https://discord.gg/rescuepc" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Join-00D4AA?style=for-the-badge&logo=discord" alt="Discord" />
+  <a href="https://www.youtube.com/@RescuePCOfficial" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-00D4AA?style=for-the-badge&logo=youtube" alt="YouTube" />
   </a>
-  <a href="https://rescuepcrepairs.com" target="_blank">
+  <a href="https://www.tiktok.com/@rescuepcofficial" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-Follow-00D4AA?style=for-the-badge&logo=tiktok" alt="TikTok" />
+  </a>
+  <a href="https://rescuepc.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View-00D4AA?style=for-the-badge&logo=globe" alt="Portfolio" />
   </a>
 </div>

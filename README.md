@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/Timezone-EST-00D4AA?style=flat-square" alt="Timezone" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/RescuePC/RescuePC/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -182,10 +186,10 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
   <a href="mailto:keeseetyler@yahoo.com">
     <img src="https://img.shields.io/badge/Email-keeseetyler%40yahoo.com-00D4AA?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://rescuepcrepairs.com">
+  <a href="https://rescuepcrepairs.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-RescuePC-00D4AA?style=for-the-badge&logo=globe" alt="Website" />
   </a>
-  <a href="https://github.com/RescuePC">
+  <a href="https://github.com/RescuePC" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-RescuePC-00D4AA?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </div>
@@ -202,21 +206,13 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 
 ---
 
-## 🎯 GitHub Metrics
+## 🔥 Quick Stats (100% Accurate)
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/RescuePC?template=classic&config.timezone=America%2FNew_York" alt="GitHub Metrics" />
-</div>
-
----
-
-## 🔥 Quick Stats
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Repositories-10+-00D4AA?style=for-the-badge&logo=github" alt="Repositories" />
-  <img src="https://img.shields.io/badge/Commits-100+-00D4AA?style=for-the-badge&logo=git" alt="Commits" />
-  <img src="https://img.shields.io/badge/Stars-5+-00D4AA?style=for-the-badge&logo=star" alt="Stars" />
-  <img src="https://img.shields.io/badge/Forks-3+-00D4AA?style=for-the-badge&logo=fork" alt="Forks" />
+  <img src="https://img.shields.io/badge/Repositories-48-00D4AA?style=for-the-badge&logo=github" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Followers-2-00D4AA?style=for-the-badge&logo=user" alt="Followers" />
+  <img src="https://img.shields.io/badge/Stars-56-00D4AA?style=for-the-badge&logo=star" alt="Stars" />
+  <img src="https://img.shields.io/badge/Following-0-00D4AA?style=for-the-badge&logo=users" alt="Following" />
 </div>
 
 ---
@@ -231,10 +227,18 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 ## 📱 Social & Professional
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-00D4AA?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/Twitter-Follow-00D4AA?style=for-the-badge&logo=twitter" alt="Twitter" />
-  <img src="https://img.shields.io/badge/Discord-Join-00D4AA?style=for-the-badge&logo=discord" alt="Discord" />
-  <img src="https://img.shields.io/badge/Portfolio-View-00D4AA?style=for-the-badge&logo=globe" alt="Portfolio" />
+  <a href="https://linkedin.com/in/tyler-keesee" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00D4AA?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/RescuePC" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-00D4AA?style=for-the-badge&logo=twitter" alt="Twitter" />
+  </a>
+  <a href="https://discord.gg/rescuepc" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join-00D4AA?style=for-the-badge&logo=discord" alt="Discord" />
+  </a>
+  <a href="https://rescuepcrepairs.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View-00D4AA?style=for-the-badge&logo=globe" alt="Portfolio" />
+  </a>
 </div>
 
 ---

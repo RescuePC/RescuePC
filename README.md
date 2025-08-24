@@ -1,4 +1,3 @@
-# 👋 Hey there, I'm Tyler Keesee
 # 👋 Hey there, I'm Tyler Keesee | 25 Years Old
 
 <div align="center">

@@ -288,14 +288,6 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 **Update Frequency**: 6 hours (GitHub) / 1 hour (WakaTime)  
 **Coverage**: All public + private repositories  
 **Accuracy**: 100% real-time across all repos
-
----
-
-<div align="center">
-<img src="https://img.shields.io/badge/GitHub%20Gists-Ready%20to%20Pin-00D4AA?style=for-the-badge&logo=github" alt="GitHub Gists Ready" />
-<img src="https://img.shields.io/badge/Code%20Examples-Welcome-00D4AA?style=for-the-badge&logo=code" alt="Code Examples Welcome" />
-</div>
-
 ---
 
 <div align="center">

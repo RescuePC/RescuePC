@@ -74,8 +74,8 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RescuePC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=RescuePC%27s%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged&rank_icon=github&cache_seconds=21600&number_format=long" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RescuePC&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=10&exclude_repo=RescuePC&custom_title=Top%20Languages%20Across%20All%20Repos&size_weight=0.5&count_weight=0.5&cache_seconds=21600" alt="Top Languages" />
+  <img src="https://github-readme-stats-snowy-tau-56.vercel.app/api?username=RescuePC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=RescuePC%27s%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged&rank_icon=github&cache_seconds=7200&number_format=long" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-snowy-tau-56.vercel.app/api/top-langs/?username=RescuePC&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=10&exclude_repo=RescuePC&custom_title=Top%20Languages%20Across%20All%20Repos&size_weight=0.5&count_weight=0.5&cache_seconds=7200" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -87,17 +87,17 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RescuePC&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Profile Details" />
+  <img src="https://github-readme-stats-snowy-tau-56.vercel.app/api/cards/profile-details?username=RescuePC&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RescuePC&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RescuePC&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Most Commit Language" />
+  <img src="https://github-readme-stats-snowy-tau-56.vercel.app/api/cards/repos-per-language?username=RescuePC&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Repos per Language" />
+  <img src="https://github-readme-stats-snowy-tau-56.vercel.app/api/cards/most-commit-language?username=RescuePC&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RescuePC&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RescuePC&theme=tokyonight&hide_border=true&utcOffset=-5&include_all_commits=true&count_private=true" alt="Productive Time" />
+  <img src="https://github-readme-stats-snowy-tau-56.vercel.app/api/cards/stats?username=RescuePC&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-snowy-tau-56.vercel.app/api/cards/productive-time?username=RescuePC&theme=tokyonight&hide_border=true&utcOffset=-5&include_all_commits=true&count_private=true" alt="Productive Time" />
 </div>
 
 ---
@@ -105,11 +105,11 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 ## 🏆 Achievements & Recognition
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RescuePC&theme=onedark&no-frame=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A&title=MultiLanguage,Stars,Commits,Repositories,Followers,Issues" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-ten-psi.vercel.app/?username=RescuePC&theme=onedark&no-frame=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A&title=MultiLanguage,Stars,Commits,Repositories,Followers,Issues" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RescuePC&theme=onedark&no-frame=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A&title=All%20Repositories,Stars,Commits,Issues,PullRequest,Followers" alt="GitHub Trophies Extended" />
+  <img src="https://github-profile-trophy-ten-psi.vercel.app/?username=RescuePC&theme=onedark&no-frame=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A&title=All%20Repositories,Stars,Commits,Issues,PullRequest,Followers" alt="GitHub Trophies Extended" />
 </div>
 
 ---
@@ -117,17 +117,17 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 ## 📈 Real-Time Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RescuePC&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Weekly%20Coding%20Activity&layout=compact&langs_count=6&hide_progress=false&cache_seconds=3600&display_format=time" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats-snowy-tau-56.vercel.app/api/wakatime?username=RescuePC&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Weekly%20Coding%20Activity&layout=compact&langs_count=6&hide_progress=false&cache_seconds=3600&display_format=time" alt="WakaTime Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RescuePC&repo=RescuePC&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Featured Repo" />
+  <img src="https://github-readme-stats-snowy-tau-56.vercel.app/api/pin/?username=RescuePC&repo=RescuePC&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Featured Repo" />
 </div>
 
 ### 🎯 **Featured Projects**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RescuePC-Repairs&repo=RescuePC-Repair-Toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="RescuePC Repair Toolkit" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RescuePC&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Portfolio" />
+  <img src="https://github-readme-stats-snowy-tau-56.vercel.app/api/pin/?username=RescuePC-Repairs&repo=RescuePC-Repair-Toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="RescuePC Repair Toolkit" />
+  <img src="https://github-readme-stats-snowy-tau-56.vercel.app/api/pin/?username=RescuePC&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Portfolio" />
 </div>
 
 ---

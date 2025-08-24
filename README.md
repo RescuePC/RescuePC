@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Tyler Keesee | 25 Years Old
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=100&lines=Computer-Science-Student;RescuePCrepairs.com;Windows-MacOS-Linux;Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=100&lines=Tyler-Keesee;25-Years-Old-New-York;Computer-Science-Student;RescuePCrepairs.com;Windows-MacOS-Linux;Innovator" alt="Typing SVG" />
 </div>
 
 <div align="center">

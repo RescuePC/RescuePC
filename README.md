@@ -101,19 +101,6 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 </div>
 
 ---
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RescuePC&theme=onedark&no-frame=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A&title=MultiLanguage,Stars,Commits,Repositories,Followers,Issues" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RescuePC&theme=onedark&no-frame=true&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A&title=All%20Repositories,Stars,Commits,Issues,PullRequest,Followers" alt="GitHub Trophies Extended" />
-</div>
-
----
-
 ## 📈 Real-Time Activity
 
 <div align="center">

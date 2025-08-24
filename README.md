@@ -113,7 +113,6 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 
 ### 🎯 **Featured Projects**
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RescuePC-Repairs&repo=RescuePC-Repair-Toolkit&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="RescuePC Repair Toolkit" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=RescuePC&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Portfolio" />
 </div>
 

@@ -284,6 +284,7 @@ I'm a passionate **Computer Science student** and **entrepreneur** who loves bui
 <img src="https://img.shields.io/badge/WakaTime%20Cache-1%20Hour-00D4AA?style=for-the-badge&logo=wakatime" alt="WakaTime Cache" />
 </div>
 
+
 **Data Sources**: GitHub API + WakaTime API  
 **Update Frequency**: 6 hours (GitHub) / 1 hour (WakaTime)  
 **Coverage**: All public + private repositories  

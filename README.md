@@ -92,7 +92,7 @@ A home for my web apps, experiments, and learning projects, from budgeting tools
 [![Public GitHub repository snapshot](assets/github-snapshot.svg)](https://github.com/RescuePC?tab=repositories)
 
 <!-- STATS:START -->
-**50 public repositories · 47 original repositories · 56 stars on originals**  
+**50 public repositories · 47 original repositories · 43 stars on originals**  
 Updated 2026-10-21 (UTC).
 <!-- STATS:END -->
 

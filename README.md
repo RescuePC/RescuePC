@@ -24,11 +24,11 @@ My work starts with a practical problem: a PC that needs troubleshooting, a repe
 
 ### 🛠️ RescuePC Repairs
 
-Windows repair tools for diagnostics, driver management, security scanning, and system maintenance. The project behind my business.
+Proprietary Windows repair software for diagnostics, driver management, security scanning, and system maintenance. The product behind my business; source code is private.
 
 **Windows · PowerShell · Automation**
 
-[Explore RescuePC ↗](https://www.rescuepcrepairs.com/) · [Repository ↗](https://github.com/RescuePC/RescuePC-Repairs)
+[Explore RescuePC ↗](https://www.rescuepcrepairs.com/)
 
 </td>
 <td width="50%" valign="top">

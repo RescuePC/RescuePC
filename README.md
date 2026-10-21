@@ -1,297 +1,113 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&height=100&lines=Tyler-Keesee;25-Years-Old;New-York;Computer-Science-Student;RescuePCrepairs.com;Windows-Developer;Innovator" alt="Typing SVG" />
+
+![Tyler Keesee — building useful software, one real problem at a time](assets/header.svg)
+
+**Windows tools · Practical automation · Software that helps people**
+
+[RescuePC ↗](https://www.rescuepcrepairs.com/) &nbsp; / &nbsp; [Portfolio ↗](https://rescuepc.github.io/Portfolio/) &nbsp; / &nbsp; [Get in touch ↗](mailto:keeseetyler@yahoo.com)
+
 </div>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=RescuePC&style=flat-square&color=00D4AA" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Status-Available%20for%20Work-00D4AA?style=flat-square" alt="Status" />
-<img src="https://img.shields.io/badge/Location-New%20York-00D4AA?style=flat-square" alt="Location" />
-<img src="https://img.shields.io/badge/Timezone-EST-00D4AA?style=flat-square" alt="Timezone" />
-</div>
+## Hey, I'm Tyler.
 
+I'm a developer, Computer Science student, and the founder of **RescuePC**, based in New York. I build tools to make everyday technology easier to understand, maintain, and use.
 
+My work starts with a practical problem: a PC that needs troubleshooting, a repetitive task that takes too long, or a concept that could be easier to learn. I like turning those problems into software people can actually use.
 
----
+**Explore:** [Selected work](#selected-work) · [My toolkit](#my-toolkit) · [What drives me](#what-drives-me) · [On GitHub](#on-github) · [Connect](#lets-connect)
 
-## 🚀 About Me
+## Selected work
 
-I'm a passionate **Computer Science student** and **entrepreneur** who loves building solutions that solve real problems. Currently pursuing my A.S. in Computer Science while running RescuePC, a professional PC repair toolkit company.
-
-**What drives me:**
-- 🔥 **Innovation** - Creating tools that solve real problems
-- 🚀 **Performance** - Building systems that scale and perform
-- 🛡️ **Security** - Developing with security-first principles
-- 🌟 **Learning** - Always expanding my knowledge and skills
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
-</div>
-
-**Languages & Frameworks:**
-- **Frontend:** HTML5, CSS3, JavaScript
-- **Backend:** Python (learning), C, C++, Java
-- **Tools:** Git, VS Code, Vercel, Zapier
-- **Platforms:** Windows, macOS, Linux
-- **Learning:** Computer Science fundamentals
-
----
-
-## 📊 Skills Progress
-
-<div align="center">
-<img src="https://img.shields.io/badge/Python-Expert-00D4AA?style=for-the-badge&logo=python" alt="Python Expert" />
-<img src="https://img.shields.io/badge/JavaScript-Advanced-00D4AA?style=for-the-badge&logo=javascript" alt="JavaScript Advanced" />
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-Intermediate-00D4AA?style=for-the-badge&logo=c" alt="C/C++ Intermediate" />
-<img src="https://img.shields.io/badge/Java-Learning-00D4AA?style=for-the-badge&logo=java" alt="Java Learning" />
-<img src="https://img.shields.io/badge/Web%20Dev-Intermediate-00D4AA?style=for-the-badge&logo=html5" alt="Web Dev Intermediate" />
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/Problem%20Solving-Expert-00D4AA?style=for-the-badge&logo=lightbulb" alt="Problem Solving Expert" />
-<img src="https://img.shields.io/badge/System%20Administration-Advanced-00D4AA?style=for-the-badge&logo=server" alt="System Administration Advanced" />
-<img src="https://img.shields.io/badge/Business%20Development-Advanced-00D4AA?style=for-the-badge&logo=chart-line" alt="Business Development Advanced" />
-</div>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RescuePC&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=RescuePC%27s%20GitHub%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged&rank_icon=github&cache_seconds=21600&number_format=long" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RescuePC&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=10&exclude_repo=RescuePC&custom_title=Top%20Languages%20Across%20All%20Repos&size_weight=0.5&count_weight=0.5&cache_seconds=21600" alt="Top Languages" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RescuePC&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4AA&sideLabels=00D4AA&dates=FFFFFF&custom_title=GitHub%20Streak&include_all_commits=true&count_private=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RescuePC&bg_color=0D1117&color=00D4AA&line=00D4AA&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph&include_all_commits=true&count_private=true&hide=issues" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RescuePC&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Profile Details" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RescuePC&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RescuePC&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RescuePC&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RescuePC&theme=tokyonight&hide_border=true&utcOffset=-5&include_all_commits=true&count_private=true" alt="Productive Time" />
-</div>
-
----
-## 📈 Real-Time Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RescuePC&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&custom_title=Weekly%20Coding%20Activity&layout=compact&langs_count=6&hide_progress=false&cache_seconds=3600&display_format=time" alt="WakaTime Stats" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RescuePC&repo=RescuePC&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Featured Repo" />
-</div>
-
-### 🎯 **Featured Projects**
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RescuePC&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF" alt="Portfolio" />
-</div>
-
----
-
-## ⏳ Coding Activity & Stats
-
-<div align="center">
-<p><em>🚀 Start coding to see your live stats here!</em></p>
-<p><em>WakaTime is tracking your development activity in real-time</em></p>
-</div>
-
-<div align="center">
-<img src="https://img.shields.io/badge/WakaTime-Profile%20Ready-00D4AA?style=for-the-badge&logo=wakatime" alt="WakaTime Ready" />
-<img src="https://img.shields.io/badge/Stats-Public-00D4AA?style=for-the-badge&logo=chart-line" alt="Stats Public" />
-<img src="https://img.shields.io/badge/Real%20Time-Active-00D4AA?style=for-the-badge&logo=clock" alt="Real Time Active" />
-</div>
-
----
-
-## 🔥 Current Projects
-
-<div align="center">
 <table>
 <tr>
- <td width="50%">
-   <h3 align="center">🚀 RescuePC Repair Toolkit</h3>
-   <p align="center">
-     CEO & Founder - Professional cross-platform PC repair toolkit
-   </p>
-   <p align="center">
-     <a href="https://github.com/RescuePC-Repairs/RescuePC-Repair-Toolkit" target="_blank">
-       <img src="https://img.shields.io/badge/View%20on%20GitHub-00D4AA?style=for-the-badge&logo=github" alt="View on GitHub" />
-     </a>
-     <a href="https://www.rescuepcrepairs.com/" target="_blank">
-       <img src="https://img.shields.io/badge/Visit%20Website-00D4AA?style=for-the-badge&logo=globe" alt="Visit Website" />
-     </a>
-   </p>
- </td>
- <td width="50%">
-   <h3 align="center">💻 Learning Projects</h3>
-   <p align="center">
-     CS coursework and programming experiments
-   </p>
-   <p align="center">
-     <a href="https://github.com/RescuePC?tab=repositories" target="_blank">
-       <img src="https://img.shields.io/badge/View%20All-00D4AA?style=for-the-badge&logo=github" alt="View All" />
-     </a>
-   </p>
- </td>
+<td width="50%" valign="top">
+
+### 🛠️ RescuePC Repairs
+
+Windows repair tools for diagnostics, driver management, security scanning, and system maintenance. The project behind my business.
+
+**Windows · PowerShell · Automation**
+
+[Explore RescuePC ↗](https://www.rescuepcrepairs.com/) · [Repository ↗](https://github.com/RescuePC/RescuePC-Repairs)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Hardware Analyzer Pro
+
+A desktop hardware monitor for CPU, memory, GPU, storage, and network metrics, with live graphs and export tools.
+
+**Python · PyQt6 · System monitoring**
+
+[Explore the code ↗](https://github.com/RescuePC/Hardware-Analyzer-Pro)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 PyLearn IDE
+
+A browser-based Python learning environment with an editor, interactive console, and visual tools for exploring programming concepts.
+
+**JavaScript · Brython · Learning tools**
+
+[Explore the code ↗](https://github.com/RescuePC/PyLearn-IDE)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+A home for my web apps, experiments, and learning projects, from budgeting tools to interactive games.
+
+**HTML · CSS · JavaScript**
+
+[Visit the portfolio ↗](https://rescuepc.github.io/Portfolio/) · [Repository ↗](https://github.com/RescuePC/Portfolio)
+
+</td>
 </tr>
 </table>
-</div>
 
----
+[Browse all public repositories →](https://github.com/RescuePC?tab=repositories)
 
-## 📚 Currently Learning
+## My toolkit
 
-- **Computer Science A.S.** at Cayuga Community College
-- **Mathematics** (Intermediate Algebra, Calculus prep)
-- **Programming Fundamentals** with Python
-- **Web Development** basics
-- **Software Engineering Principles**
+| Area | Languages & tools |
+| :--- | :--- |
+| Desktop & automation | Python, PowerShell, Windows, PyQt6 |
+| Web | JavaScript, TypeScript, HTML, CSS |
+| Development | Git, GitHub, VS Code, Vercel |
+| Exploring & learning | C, C++, Java, Linux, computer science fundamentals |
 
----
+## What drives me
 
-## 🌟 What I'm Working On
+- **Useful tools.** Build around real troubleshooting and workflow problems.
+- **Thoughtful engineering.** Keep improving reliability, performance, and security.
+- **Learning by doing.** Connect Computer Science coursework with hands-on projects.
+- **Building a business.** Keep developing RescuePC alongside work and school.
 
-- 🔧 **RescuePC** - Growing the business and expanding features
-- 📚 **CS Studies** - Learning programming and computer science
-- 🚀 **New Skills** - Building programming knowledge from the ground up
-- 💡 **Business Growth** - Expanding RescuePC's reach and capabilities
+## On GitHub
 
----
+[![Public GitHub repository snapshot](assets/github-snapshot.svg)](https://github.com/RescuePC?tab=repositories)
 
-## 🤝 Let's Connect
+<!-- STATS:START -->
+**50 public repositories · 47 original repositories · 56 stars on originals**  
+Updated 2026-10-21 (UTC).
+<!-- STATS:END -->
 
-<div align="center">
-<a href="mailto:keeseetyler@yahoo.com">
-<img src="https://img.shields.io/badge/Email-keeseetyler%40yahoo.com-00D4AA?style=for-the-badge&logo=gmail" alt="Email" />
-</a>
-<a href="https://www.rescuepcrepairs.com/" target="_blank">
-<img src="https://img.shields.io/badge/Website-RescuePC-00D4AA?style=for-the-badge&logo=globe" alt="Website" />
-</a>
-<a href="https://github.com/RescuePC" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-RescuePC-00D4AA?style=for-the-badge&logo=github" alt="GitHub" />
-</a>
-</div>
+<sub>Daily snapshot from GitHub's public API. Stars are counted across original public repositories; forks are excluded from that total. The date above shows the last successful refresh. [How it updates](docs/profile-maintenance.md).</sub>
 
----
+## Let's connect
 
-## 💡 Fun Facts
+Interested in Windows tools, automation, or a project we could build together? I'd love to hear from you.
 
-- 🎯 **Goal:** Building tools that help people solve real problems
-- 🌍 **Vision:** Making technology accessible and reliable for everyone
-- 🚀 **Motto:** "Build with purpose, learn with passion"
-- 📚 **Learning Style:** Hands-on projects + theoretical understanding
-- ⚡ **Work Ethic:** Full-time job + part-time CS studies + running a business
+**[Email](mailto:keeseetyler@yahoo.com)** · **[LinkedIn](https://www.linkedin.com/in/tyler-keesee-677baa326/)** · **[RescuePC](https://www.rescuepcrepairs.com/)** · **[Portfolio](https://rescuepc.github.io/Portfolio/)**
 
----
-
-## 🔥 Quick Stats (100% Accurate)
-
-<div align="center">
-<img src="https://img.shields.io/badge/Repositories-48-00D4AA?style=for-the-badge&logo=github" alt="Repositories" />
-<img src="https://img.shields.io/badge/Followers-2-00D4AA?style=for-the-badge&logo=user" alt="Followers" />
-<img src="https://img.shields.io/badge/Stars-56-00D4AA?style=for-the-badge&logo=star" alt="Stars" />
-<img src="https://img.shields.io/badge/Following-0-00D4AA?style=for-the-badge&logo=users" alt="Following" />
-</div>
+[YouTube](https://www.youtube.com/@RescuePCOfficial) · [X](https://x.com/RescuePCRepair) · [TikTok](https://www.tiktok.com/@rescuepcofficial)
 
 ---
 
 <div align="center">
-<h3>🚀 Ready to build something amazing together?</h3>
-<p>Let's connect and create something that makes a difference!</p>
-</div>
-
----
-
-## 📱 Social & Professional
-
-<div align="center">
-<a href="https://www.linkedin.com/in/tyler-keesee-677baa326/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00D4AA?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="https://x.com/RescuePCRepair" target="_blank">
-<img src="https://img.shields.io/badge/X%20(Twitter)-Follow-00D4AA?style=for-the-badge&logo=x" alt="X (Twitter)" />
-</a>
-<a href="https://www.youtube.com/@RescuePCOfficial" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-Subscribe-00D4AA?style=for-the-badge&logo=youtube" alt="YouTube" />
-</a>
-<a href="https://www.tiktok.com/@rescuepcofficial" target="_blank">
-<img src="https://img.shields.io/badge/TikTok-Follow-00D4AA?style=for-the-badge&logo=tiktok" alt="TikTok" />
-</a>
-<a href="https://rescuepc.github.io/Portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-View-00D4AA?style=for-the-badge&logo=globe" alt="Portfolio" />
-</a>
-</div>
-
----
-
-## 🌟 Profile Features
-
-<div align="center">
-<img src="https://img.shields.io/badge/Profile%20Views-Dynamic-00D4AA?style=for-the-badge&logo=eye" alt="Profile Views" />
-<img src="https://img.shields.io/badge/Last%20Updated-Automatic-00D4AA?style=for-the-badge&logo=clock" alt="Last Updated" />
-<img src="https://img.shields.io/badge/Stats-Real%20Time-00D4AA?style=for-the-badge&logo=chart-line" alt="Real Time Stats" />
-<img src="https://img.shields.io/badge/WakaTime-Integration-00D4AA?style=for-the-badge&logo=wakatime" alt="WakaTime Integration" />
-</div>
-
----
-
-## 🚀 **WakaTime Integration Status**
-
-✅ **Profile**: Public and ready  
-✅ **Username**: RescuePC  
-✅ **API Key**: Configured in IDE  
-✅ **Stats Display**: Enabled  
-⏳ **Data Collection**: Waiting for first coding session  
-
-**Next Step**: Code for 5-10 minutes in your IDE and watch your stats appear in real-time!
-
----
-
-## 📊 **Real-Time Data Accuracy**
-
-<div align="center">
-<img src="https://img.shields.io/badge/Cache%20Control-6%20Hours-00D4AA?style=for-the-badge&logo=clock" alt="Cache Control" />
-<img src="https://img.shields.io/badge/Private%20Repos-Included-00D4AA?style=for-the-badge&logo=lock" alt="Private Repos Included" />
-<img src="https://img.shields.io/badge/All%20Commits-Counted-00D4AA?style=for-the-badge&logo=git" alt="All Commits Counted" />
-<img src="https://img.shields.io/badge/WakaTime%20Cache-1%20Hour-00D4AA?style=for-the-badge&logo=wakatime" alt="WakaTime Cache" />
-</div>
-
-
-**Data Sources**: GitHub API + WakaTime API  
-**Update Frequency**: 6 hours (GitHub) / 1 hour (WakaTime)  
-**Coverage**: All public + private repositories  
-**Accuracy**: 100% real-time across all repos
-
----
-
-<div align="center">
-<sub>⭐ Star this repo if you found it helpful!</sub>
+<sub>Build with purpose. Learn by doing. Keep making it better.</sub>
 </div>

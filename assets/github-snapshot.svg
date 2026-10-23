@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="204" viewBox="0 0 1000 204" role="img" aria-labelledby="title desc">
   <title id="title">RescuePC public GitHub snapshot</title>
-  <desc id="desc">50 public repositories, 47 original repositories, 56 stars on originals. Updated 2026-10-22 UTC.</desc>
+  <desc id="desc">50 public repositories, 47 original repositories, 56 stars on originals. Updated 2026-10-23 UTC.</desc>
   <rect x="1" y="1" width="998" height="202" rx="16" fill="#0e1822" stroke="#29434c"/>
   <g font-family="Segoe UI,Arial,sans-serif">
     <text x="48" y="34" fill="#94b5bd" font-size="12" letter-spacing="2">PUBLIC WORK / GITHUB</text>
     <text x="48" y="108" fill="#77e9d0" font-size="48" font-weight="700">50</text><text x="48" y="138" fill="#b4c6d0" font-size="12" letter-spacing="1">PUBLIC REPOSITORIES</text>
     <text x="370" y="108" fill="#77e9d0" font-size="48" font-weight="700">47</text><text x="370" y="138" fill="#b4c6d0" font-size="12" letter-spacing="1">ORIGINAL REPOSITORIES</text>
     <text x="692" y="108" fill="#77e9d0" font-size="48" font-weight="700">56</text><text x="692" y="138" fill="#b4c6d0" font-size="12" letter-spacing="1">STARS ON ORIGINALS</text>
-    <text x="48" y="181" fill="#94b5bd" font-size="12">LAST REFRESH 2026-10-22 UTC · PUBLIC API SNAPSHOT</text>
+    <text x="48" y="181" fill="#94b5bd" font-size="12">LAST REFRESH 2026-10-23 UTC · PUBLIC API SNAPSHOT</text>
   </g>
   <path d="M338 65v82M660 65v82" stroke="#29434c"/>
 </svg>
